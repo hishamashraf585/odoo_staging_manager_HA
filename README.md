@@ -1,0 +1,1 @@
+# odoo_staging_manager_HA
